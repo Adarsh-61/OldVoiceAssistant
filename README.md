@@ -25,7 +25,7 @@ You can watch the demo on YouTube using this link: [https://youtu.be/YbcMgKBvhUs
 
 ## How to Get Started
 
-To experience the AI voice assistant for yourself, visit the project’s GitHub repository at [https://github.com/Adarsh-61/VoiceAssistant](https://github.com/Adarsh-61/OldVoiceAssistant). The repository contains all the project files and additional documentation that explain how the system is put together. With the necessary setup—including having Python installed and the required libraries—you’ll be able to run the assistant on your computer, speak your commands, and watch it respond—all while working completely offline.
+To experience the AI voice assistant for yourself, visit the project’s GitHub repository at [https://github.com/Adarsh-61/OldVoiceAssistant](https://github.com/Adarsh-61/OldVoiceAssistant). The repository contains all the project files and additional documentation that explain how the system is put together. With the necessary setup—including having Python installed and the required libraries—you’ll be able to run the assistant on your computer, speak your commands, and watch it respond—all while working completely offline.
 
 ## How You Can Contribute
 
